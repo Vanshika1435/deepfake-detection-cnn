@@ -21,7 +21,7 @@ A deep learning project to detect real vs fake faces in images. The system uses 
 ---
 
 ## 📁 Project Structure
-Deepfake_Detection/
+'''Deepfake_Detection/
 │
 ├── preprocess.py # Preprocess images for model
 ├── train_model.py # CNN training script
@@ -33,9 +33,7 @@ Deepfake_Detection/
 ├── requirements.txt # Python dependencies
 ├── README.md # This file
 ├── .gitignore # Ignore dataset, models, cache
-
-
----
+'''
 
 ## 💡 How it Works
 1. Images are preprocessed (resized, normalized)  
@@ -52,11 +50,10 @@ Deepfake_Detection/
 
 ---
 
-## 🖼 Screenshots (Optional)
-*Add screenshots of your GUI here to make it more impressive:*
-screenshots/
-├── gui_1.png
-├── gui_2.png
+## 🖼 Screenshots
+
+![GUI Screenshot 1](screenshots/gui_1.jpg)
+![GUI Screenshot 2](screenshots/gui_2.jpg)
 
 ---
 
