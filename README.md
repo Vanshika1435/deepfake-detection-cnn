@@ -19,9 +19,9 @@ A deep learning project to detect real vs fake faces in images. The system uses 
 - **IDE:** VS Code / PyCharm / Jupyter Notebook  
 
 ---
-
+```
 ## 📁 Project Structure
-'''Deepfake_Detection/
+Deepfake_Detection/
 │
 ├── preprocess.py # Preprocess images for model
 ├── train_model.py # CNN training script
@@ -33,7 +33,7 @@ A deep learning project to detect real vs fake faces in images. The system uses 
 ├── requirements.txt # Python dependencies
 ├── README.md # This file
 ├── .gitignore # Ignore dataset, models, cache
-'''
+```
 
 ## 💡 How it Works
 1. Images are preprocessed (resized, normalized)  
